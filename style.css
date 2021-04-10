@@ -44,3 +44,12 @@ nav ul li {
     background: transparent;
     border: none;
 }
+
+.para {
+    display: flex;
+    height: 200px;
+    align-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: large;
+}
