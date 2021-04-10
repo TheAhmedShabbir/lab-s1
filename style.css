@@ -1,0 +1,46 @@
+.fixed {
+    background-color: black;
+    color: white;
+    font-size: smaller;
+}
+
+.navi {
+    height: 70px;
+}
+
+nav ul {
+    margin-left: 270px;
+    list-style: none;
+}
+
+nav ul li {
+    margin-top: 8px;
+    height: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-right: 2px solid blue;
+}
+
+.slide {
+    height: 400px;
+    background-color: black;
+}
+
+.slide img {
+    height: 100px;
+    width: 100px;
+}
+
+.carousel-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.carousel-control-prev {
+    background: transparent;
+    border: none;
+}
+.carousel-control-next {
+    background: transparent;
+    border: none;
+}
